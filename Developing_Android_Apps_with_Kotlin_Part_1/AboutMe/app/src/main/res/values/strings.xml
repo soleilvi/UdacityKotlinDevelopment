@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Soleil Vivero</string>
+    <string name="yellow_star">Yellow star</string>
+
+    <string name ="bio">Impossible Creatures is a 3D RTS game that pits the player against an evil villain.
+        Using Earth\’s most formidable animals as building blocks,
+        the player must create an army of genetically-altered mutant monsters in a titanic struggle
+        to protect an unsuspecting world.
+    \n\n\nImpossible Creatures is a steampunk real-time strategy game released in 2003 and
+        developed by Relic Entertainment in conjunction with Microsoft Studios.
+        Its unique feature is that the armies used are all created by the player.
+        Inspired by the works of H. G. Wells, the armies consist of 9 creatures;
+        each one is a combination of any two animals from a list of 76 (51 with no downloads).
+        Many animals possess inherent abilities to add more strategic depth to the game.
+        There is an extensive single-player campaign as well as online multiplayer functionality
+        with different game modes, add-ons, custom maps, mods, and scenarios.
+    </string>
+    <string name="What_is_your_nickname">What is your nickname</string>
+    <string name="done">Done</string>
+</resources>
